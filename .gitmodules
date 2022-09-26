@@ -1,0 +1,3 @@
+[submodule "boo-gaming"]
+	path = boo-gaming
+	url = https://github.com/BOO1980/boo-gaming.git
