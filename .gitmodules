@@ -1,3 +1,6 @@
 [submodule "boo-gaming"]
 	path = boo-gaming
 	url = https://github.com/BOO1980/boo-gaming.git
+[submodule "boo-testing"]
+	path = boo-testing
+	url = https://github.com/BOO1980/boo-testing.git
