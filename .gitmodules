@@ -7,3 +7,6 @@
 [submodule "boo-databases"]
 	path = boo-databases
 	url = https://github.com/BOO1980/boo-databases.git
+[submodule "boo-programming-general"]
+	path = boo-programming-general
+	url = https://github.com/BOO1980/boo-programming-general.git
