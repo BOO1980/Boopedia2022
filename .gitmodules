@@ -10,3 +10,6 @@
 [submodule "boo-programming-general"]
 	path = boo-programming-general
 	url = https://github.com/BOO1980/boo-programming-general.git
+[submodule "boo-misc-software-frameworks"]
+	path = boo-misc-software-frameworks
+	url = https://github.com/BOO1980/boo-misc-software-frameworks.git
