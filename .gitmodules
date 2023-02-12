@@ -16,3 +16,6 @@
 [submodule "boo-source-control"]
 	path = boo-source-control
 	url = https://github.com/BOO1980/boo-source-control.git
+[submodule "boo-dungeons-and-dragons"]
+	path = boo-dungeons-and-dragons
+	url = https://github.com/BOO1980/boo-dungeons-and-dragons.git
