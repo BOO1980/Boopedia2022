@@ -19,3 +19,6 @@
 [submodule "boo-dungeons-and-dragons"]
 	path = boo-dungeons-and-dragons
 	url = https://github.com/BOO1980/boo-dungeons-and-dragons.git
+[submodule "boo-self"]
+	path = boo-self
+	url = https://github.com/BOO1980/boo-self.git
