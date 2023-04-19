@@ -25,3 +25,6 @@
 [submodule "boo-cloud-computing"]
 	path = boo-cloud-computing
 	url = https://github.com/BOO1980/boo-cloud-computing.git
+[submodule "boo-web-development"]
+	path = boo-web-development
+	url = https://github.com/BOO1980/boo-web-development.git
