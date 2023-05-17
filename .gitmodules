@@ -1,0 +1,5 @@
+[submodule "boo-java"]
+	path = boo-java
+	url = https://github.com/BOO1980/boo-java.git
+[submodule "boo-programming-general"]
+	url = https://github.com/BOO1980/boo-programming-general.git
